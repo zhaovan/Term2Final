@@ -20,6 +20,7 @@ const text = [
   "like the fact that you're expected to tap into creativity on demand is wild",
   "my brain doesn't work like that",
   "but here we are",
+  "and you're scrolling to read all this goodness",
   "still scrolling....",
   "keep scrolling....",
   "anddddddd scrolling....",
