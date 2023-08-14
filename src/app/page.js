@@ -52,7 +52,7 @@ export default function Home() {
       <main data-scroll-container ref={containerRef}>
         <div className="flex justify-center items-center h-screen">
           <div className="text-center flex flex-col gap-4">
-            <h1 className="text-7xl">Dialog</h1>
+            <h1 className="text-7xl">Convo</h1>
             <h2 className="text-2xl">
               What happens when you give an engineer too much choice and the
               Robofont scripting window when asking him to design a typeface
